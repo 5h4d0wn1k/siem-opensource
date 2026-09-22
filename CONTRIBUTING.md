@@ -1,4 +1,4 @@
-# Contributing to siem\-opensource
+# Contributing to siem-opensource
 
 Thanks for your interest! This project is **educational and defensive** software
 for authorized, responsible security practice — see [ETHICS.md](ETHICS.md) and
